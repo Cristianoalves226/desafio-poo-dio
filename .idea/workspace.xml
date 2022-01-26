@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bee2425b-d034-458c-8e5c-8914d792841e" name="Changes" comment="Criacao das Classes Dev e Bootcamp">
+    <list default="true" id="bee2425b-d034-458c-8e5c-8914d792841e" name="Changes" comment="Concluindo a criação  das classes de dominio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643228787377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Concluindo a criação de das classes de dominio">
+      <created>1643229792700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643229792700</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Concluindo a criação  das classes de dominio">
+      <created>1643229927098</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643229927098</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Concluindo a criação  das classes de dominio">
+      <created>1643229934620</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643229934620</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +130,8 @@
     <MESSAGE value="Criacao de Classes Mentoria e Curso" />
     <MESSAGE value="Criacao de Classe Conteudo" />
     <MESSAGE value="Criacao das Classes Dev e Bootcamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criacao das Classes Dev e Bootcamp" />
+    <MESSAGE value="Concluindo a criação de das classes de dominio" />
+    <MESSAGE value="Concluindo a criação  das classes de dominio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concluindo a criação  das classes de dominio" />
   </component>
 </project>
